@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386564234629",
+    "firebase_url": "https://test-5bf40.firebaseio.com",
+    "project_id": "test-5bf40",
+    "storage_bucket": "test-5bf40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386564234629:android:989a92aafc9ed5c35638ec",
+        "android_client_info": {
+          "package_name": "com.example.flutlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386564234629-9nmd137oufhat3npssjd6fcnktv6jkge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB0AjuvxJy9bvPndfzd4U2Ee0KGUD9_Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386564234629-9nmd137oufhat3npssjd6fcnktv6jkge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
